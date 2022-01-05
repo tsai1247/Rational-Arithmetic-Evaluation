@@ -1,0 +1,7 @@
+# report
+*.docx
+
+# constructed when compiling
+*.o
+*.hi
+*.exe
