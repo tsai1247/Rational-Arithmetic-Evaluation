@@ -28,6 +28,6 @@ The project is for the final project of class "Programming Language Design (CE61
 * if 'divide by zero' occured, throw an exception with message "divide by zero"
 
 ### Compile and run the code
-* You hava to download [ghc]( https://www.haskell.org/ghc/download_ghc_9_0_2.html) first.
+* You have to download [ghc]( https://www.haskell.org/ghc/download_ghc_9_0_2.html) first.
 * Execute `run.bat` in Windows
 * Execute `run.sh` in Linux
